@@ -1,4 +1,7 @@
 # Simulador de Sistema de Arquivos
+## **Equipe:**
+- Maria Iana da Silva Araujo
+- Matheus Alves Oliveira
 
 Este projeto consiste em um simulador de sistema de arquivos desenvolvido em Java. Ele implementa funcionalidades básicas de manipulação de arquivos e diretórios, com suporte a Journaling para garantir a integridade das operações realizadas. O objetivo é oferecer uma compreensão prática do funcionamento de sistemas de arquivos, especialmente os dotados de journaling.
 
